@@ -1,0 +1,80 @@
+h1{
+	padding : 50px;
+	text-align: center;
+}
+td{
+	font-size: 48px;
+	padding: 35px;
+}
+
+
+img{
+	width: 400px;
+	height: 250px;
+}
+
+#countriesColor {
+	background-color: CornflowerBlue;
+}
+
+#homepageColor{
+	color: White;
+	text-align: Center;
+}
+
+#PIBColor{
+	background-color: Gainsboro;
+}
+
+#irelandBackground{
+	background-color: LightGreen;
+}
+
+#TILFS{
+	font-size: 50px;
+	text-align: center;
+}
+
+#ULFS{
+	font-size: 40px;
+}
+
+#colombiaBackground{
+	background-color: Yellow;
+}
+
+#italyBackground{
+	background-color: Red;
+}
+
+#australiaBackground{
+	background-color: White;
+}
+
+#australiaBackground{
+	background-color: Blue;
+}
+
+#canadaBackground{
+	background-color: Red;
+}
+
+#fijiBackground{
+	background-color: LightBlue;
+}
+
+#ULFS{
+	color: White;
+}
+
+#TILFS{
+	color: White;
+}
+
+
+
+
+
+
+
+
