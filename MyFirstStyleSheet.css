@@ -1,0 +1,49 @@
+img{
+	width : 200px;
+}
+
+h1{
+	padding : 50px;
+	text-align: center;
+}
+
+body{
+	background-color: Crimson;
+}
+
+td{
+	font-size: 48px;
+}
+
+a:visited{
+	color: White;
+}
+
+#recipeBackground {
+	background-color: LightCoral;
+}
+
+#recipeImg{
+	width: 400px;
+	height: 350px;
+	margin: 15px;
+}
+
+#ingredientsColor{
+	color: White;
+}
+
+#uL{
+	color: Green;
+}
+#inst{
+	color: Blue;
+}
+
+#oL{
+	color: Purple;
+}
+
+
+
+
