@@ -7,6 +7,11 @@ td{
 	padding: 35px;
 }
 
+#globe{
+	width: 400px;
+	height: 400px;
+}
+
 
 img{
 	width: 400px;
@@ -69,6 +74,13 @@ img{
 
 #TILFS{
 	color: White;
+}
+
+#TASP{
+	color: White;
+	padding : 50px;
+	text-align: center;
+	font-size: 32px;
 }
 
 
